@@ -1,1 +1,1 @@
-# Confidence-aware_hybrid_search-guidance
+# Confidence-aware_hybrid_search_guidance
